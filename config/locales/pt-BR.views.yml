@@ -1,0 +1,9 @@
+pt-BR:
+  images:
+    new:
+      form:
+        error: 'Ocorreu um erro ao tentar criar %{model}'
+    image:
+      edit_link: 'Editar'
+      remove_link: 'Eliminar'
+

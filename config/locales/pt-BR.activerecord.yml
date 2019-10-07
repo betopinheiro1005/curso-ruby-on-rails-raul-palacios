@@ -1,0 +1,9 @@
+pt-BR:
+  activerecord:
+    models:
+      image: 'Imagem'
+
+    attributes:
+      image:
+        description: 'Descrição'
+        picture: 'Imagem'
